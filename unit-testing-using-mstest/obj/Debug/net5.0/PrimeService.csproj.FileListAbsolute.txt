@@ -1,0 +1,11 @@
+C:\Users\candrades\source\repos\unit-testing-using-mstest\unit-testing-using-mstest\bin\Debug\net5.0\PrimeService.deps.json
+C:\Users\candrades\source\repos\unit-testing-using-mstest\unit-testing-using-mstest\bin\Debug\net5.0\PrimeService.dll
+C:\Users\candrades\source\repos\unit-testing-using-mstest\unit-testing-using-mstest\bin\Debug\net5.0\ref\PrimeService.dll
+C:\Users\candrades\source\repos\unit-testing-using-mstest\unit-testing-using-mstest\bin\Debug\net5.0\PrimeService.pdb
+C:\Users\candrades\source\repos\unit-testing-using-mstest\unit-testing-using-mstest\obj\Debug\net5.0\PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\candrades\source\repos\unit-testing-using-mstest\unit-testing-using-mstest\obj\Debug\net5.0\PrimeService.AssemblyInfoInputs.cache
+C:\Users\candrades\source\repos\unit-testing-using-mstest\unit-testing-using-mstest\obj\Debug\net5.0\PrimeService.AssemblyInfo.cs
+C:\Users\candrades\source\repos\unit-testing-using-mstest\unit-testing-using-mstest\obj\Debug\net5.0\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\candrades\source\repos\unit-testing-using-mstest\unit-testing-using-mstest\obj\Debug\net5.0\PrimeService.dll
+C:\Users\candrades\source\repos\unit-testing-using-mstest\unit-testing-using-mstest\obj\Debug\net5.0\ref\PrimeService.dll
+C:\Users\candrades\source\repos\unit-testing-using-mstest\unit-testing-using-mstest\obj\Debug\net5.0\PrimeService.pdb

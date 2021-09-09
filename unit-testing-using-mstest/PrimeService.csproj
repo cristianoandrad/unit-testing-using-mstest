@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>unit_testing_using_mstest</RootNamespace>
+  </PropertyGroup>
+
+</Project>
